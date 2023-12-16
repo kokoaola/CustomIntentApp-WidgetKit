@@ -13,5 +13,6 @@ struct WidgetKitExtensionBundle: WidgetBundle {
     var body: some Widget {
         ExpenseWidget()
         ColorWidget()
+        StockWidget()
     }
 }
